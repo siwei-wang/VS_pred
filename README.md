@@ -1,7 +1,7 @@
 # VS_pred
  Maximally efficient prediction in the early fly visual system may support evasive flight maneuvers
-# intermediate data (see figure generating code for embedded data in Fig 2, S7Fig, these mutual information estimations are calculated with MILCA [Kraskov et al., 2013])
-Fig 2: see Fig2A.R and Fig2B.R
+# data/fig 
+Fig 2: see Fig2A.R and Fig2B.R (these mutual information estimations are calculated with MILCA [Kraskov et al., 2013])
 
 Fig 3: IB_10ms.csv (the information curve) and alltriplet_10ms.csv)
 
