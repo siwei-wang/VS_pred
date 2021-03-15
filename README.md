@@ -17,6 +17,8 @@ S4FigA: same as Fig 3
 
 S4FigB: same as fig 4
 
+S5Fig: alltriplet_10ms.csv and tripletvsstim10.csv
+
 S6Fig: no data needed, it's a scheme of variational autoencoder
 
 S7Fig: see figure genereating code S7fig.R
